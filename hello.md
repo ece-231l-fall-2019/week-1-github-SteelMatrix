@@ -3,7 +3,7 @@
 ## A little about me
 Hello! My name is John, and I am studying for computer engineering. I am originally from New Orleans, Louisiana. I moved here in 2005, evacuating from Hurricane Katrina, and have lived here since then.
 ## What I hope to get from this class
-In this class, I am hoping to become more fluent in the C++ programming language. I have programmed some in C++, but I am not skilled at all in the language. I am much more effective in programming in other languages, but taking this course will help me learn another.
+In this class, I am hoping to become more fluent in the C++ programming language. I have programmed some in C++, but I am not skilled at all in the language. Taking this course will help me learn another programming language.
 ## My current programming skill
 I currently know (but am *still* learning) the following languages:
 * Assembly
@@ -11,7 +11,7 @@ I currently know (but am *still* learning) the following languages:
 * C
 * C#
 * **Python** (I love this one)
-  * I am currently working on making a video game in this language, to improve my generalas an exercise in programming logic skill. :space_invader: :video_game:
+  * I am currently working on making a video game in this language as an exercise in programming logic skill. :space_invader: :video_game:
 * VHDL
   * I am not currently programming in this language, but I enjoyed programming in it when I did.
 ## A little more about me
