@@ -18,7 +18,7 @@ int main()
 	std::cout << "  * I am not currently programming in this language, but I enjoyed programming in it when I did." << std::endl;
 	std::cout << "## A little more about me" << std::endl;
 	std::cout << "I have two pets, but unfortunately I only have a photo of one, currently. His name is Scout, and he is a Jack Russel Terrier mix:" << std::endl;
-	std::cout << "![Image of Scout, a small white and brown dog] (Dog.jpg)" << std::endl;
+	std::cout << "![Image of Scout, a small white and brown dog](Dog.jpg)" << std::endl;
 	std::cout << "I have played trumpet for a few years, and still do every once in a while. I also enjoy composing music, animating, reading, and __sometimes__ I enjoy doing homework." << std::endl;
 	std::cout << "## My plans for the future" << std::endl;
 	std::cout << "After graduating from the University of New Mexico, I might find a job here for a short time, then take some time to travel the world. Other than that, we'll see what's next! :earth_americas: :airplane:" << std::endl;
